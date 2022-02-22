@@ -13,18 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 Ejemplo de proyecto Android para mostrar cómo implementar algunas de las características más comunes en aplicaciones Android.
 
-###pantallas
-...
+###pantallas...
 
 -Pantalla Chapoteo
 -Acceso
 -Crear una cuenta
 -Lista de productos
 -Tarjeta de producto
--Perfil
-...
-###Características
-...
+-Perfil...
+
+###Características...
 
 -Preferencias del usuario
 -Voleo
